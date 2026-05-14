@@ -1,0 +1,15 @@
+{
+  "id": "P012",
+  "name": "YouTubeAI",
+  "description": "YouTube faceless 短视频自动生成 + 一键上传工具（基于 332 调研的开源工具栈复用 / 自研编排）",
+  "path": "/home/devuser/dev/imoss/projects/YouTubeAI",
+  "projectType": "dev",
+  "techStack": [],
+  "status": "active",
+  "createdAt": "2026-05-14T07:27:14.530Z",
+  "updatedAt": "2026-05-14T07:27:14.530Z",
+  "settings": {
+    "defaultAgent": "claude-code",
+    "autoExtractRules": true
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "workingState": {
+    "currentStep": "",
+    "completedSteps": [],
+    "nextSteps": []
+  },
+  "activeContext": {
+    "files": {}
+  },
+  "decisions": [],
+  "conversationSummary": "",
+  "recentErrors": [],
+  "resumeHint": ""
+}
