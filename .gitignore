@@ -22,3 +22,9 @@ venv/
 .vscode/
 .idea/
 *.swp
+# 350: secrets sops+age
+.env.*
+!.env.sops
+!.env.*.sops
+!.env.example
+!.sops.yaml

@@ -1,0 +1,6 @@
+# 350: 自动 provision。host 分区 env 加密（明文 .env.<host> gitignore，密文入 git）
+creation_rules:
+  - path_regex: (^|/)\.env(\.[a-z0-9-]+)?$
+    input_type: dotenv
+    output_type: dotenv
+    age: age1p6gh52ncxqwapv39ppl3s0a4ppwfcz7xpajqjdjl7f8nc7wr5u3s2rx7h8
